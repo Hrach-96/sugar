@@ -1,0 +1,11 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['cancellation_terms'] = 'Termini di cancellazione';
+$lang['withdrawal'] = 'Ritiro';
+$lang['withdrawal_rule_one'] = 'Hai il diritto di recedere dal presente contratto entro quattordici giorni senza fornire alcuna motivazione.';
+$lang['withdrawal_rule_two'] = 'Il periodo di revoca è di quattordici giorni dalla data del contratto.';
+$lang['withdrawal_rule_three'] = 'Per esercitare il diritto di recesso, è necessario (ordinare rete eU, Herbert Friedl, Gewerbepark 1 / Top 16, A-5222 Munderfing, Email: support@sugarbabe-deluxe.eu) mediante una dichiarazione chiara (ad esempio una lettera inviato per posta o e-mail) sulla tua decisione di recedere dal presente contratto. È possibile utilizzare il modulo di recesso del modello allegato, che non è richiesto.';
+$lang['withdrawal_rule_four'] = 'Per mantenere il periodo di cancellazione, è sufficiente che tu invii l\'avviso dell\'esercizio del diritto di recesso prima della scadenza del periodo di recesso.';
+$lang['consequences_of_the_cancellation'] = 'Conseguenze della cancellazione';
+$lang['consequences_of_the_cancellation_policy'] = 'In caso di recesso dal presente Accordo, abbiamo selezionato tutti i pagamenti che abbiamo ricevuto da voi, comprese le spese di spedizione (ad eccezione dei costi aggiuntivi derivanti dalla scelta di un metodo di consegna diverso rispetto alla consegna standard più favorevole che offriamo di rimborsare immediatamente e al entro quattordici giorni dalla data in cui la notifica della revoca del presente contratto ci è pervenuta.Per questo rimborso, utilizziamo lo stesso mezzo di pagamento utilizzato nella transazione originale, salvo diversamente concordato con te, in nessun caso ti verranno addebitate le spese di rimborso: se hai richiesto che i servizi siano iniziati durante il periodo di cancellazione, devi pagarci un importo ragionevole pari alla proporzione di servizi già forniti da te nel momento in cui ci comunichi dell\'esercizio di il diritto di recesso in relazione a questo contratto Confronto con il volume totale dei servizi previsti nel contratto.';

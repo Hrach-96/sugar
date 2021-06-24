@@ -1,0 +1,310 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width: 1200px) {
+	
+	.form-block-center
+	{
+		display:none;
+	}
+  
+}
+@media only screen and (max-width: 1000px) {
+	
+	.form-block-right {
+    width: 100%;
+}
+.main-slogan
+{
+	font-size:20px;
+	margin-top:20px;
+}
+.form-block-left
+{
+	    width: 100%;
+    position: static;
+	padding-top:50px;
+	margin-top:0;
+}
+.form-block
+{
+	padding:0;
+}
+.join-the-best-bating
+{
+	top:20%;
+}
+.apple-google-window
+{
+	padding-top:210px;
+}
+.lightbox-content, .forgetpasslightbox-content
+{
+	width:500px;
+}
+.sign-up-content {
+    width: 80%;
+    margin: auto;
+}
+.app-text
+{
+	line-height:1;
+	padding-top:30px;
+}
+.login-divider
+{
+	display:none;
+}
+.logo
+{
+	    position: absolute;
+    left: 10px;
+    top: 10px;
+	margin-top:0;
+}
+.login-form
+{
+	width:50%;
+	padding:0px 10px;
+}
+.login-form input, .fb_btn
+{
+	width:100%;
+}
+.login-forgot
+{
+	width:100%;
+	float:none;
+}
+.login-fb
+{
+	width:50%;
+	padding:0px 10px;
+	    margin-left: 0;
+		padding-top:20px;
+}
+.login-submit
+{
+	width:100%;
+}
+.regform-divider
+{
+	display:none;
+}
+ .logo center font
+	  {
+		  font-size:20px!important;
+	  }
+	  .regform-form
+	  {
+		  min-width:auto;
+		  padding:10px;
+	  }
+	  .regform-fb
+	  {
+		  width: 50%;
+    margin-left: 0;
+	padding:10px;
+	  }
+	  .regform-form-title
+	  {
+		  display:none;
+	  }
+}
+
+ @media only screen and (max-width: 768px) {
+	 .people-have-joined h2
+	 {
+		 font-size:36px;
+	 }
+	 .langusges .form-control
+	  {
+		  display:none;
+	  }
+	  .form-block
+	  {
+		  padding:10px;
+	  }
+	  .top-point 
+	  {
+		  width:100%;
+		  margin-bottom:20px;
+		  border-bottom:1px solid #ccc;
+		  padding-bottom:20px;
+	  }
+	  .top-point-row:last-child .top-point:last-child
+	  {
+		  border-bottom:none;	  }
+		  .main-slogan
+		  {
+			  display:none;
+		  }
+		  .top-point-title
+		  {
+			      font-size: 26px;
+		  }
+	  #reg-form .form_item
+	  {
+		  display:block;
+	  }
+	  #reg-form .form_item select
+	  {
+		  width:100%;
+	  }
+	  #reg-form .form_item .item_label
+	  {
+		  display:none;
+	  }
+ 
+}
+  @media only screen and (max-width: 600px) {
+	  .apple-google-window ul li
+	  {
+		      width: 100%;
+    text-align: left;
+	  }
+	  .tweet
+	  {
+		  display:none;
+	  }
+	  .people-near-by
+	  {
+		  display:none;
+	  }
+	  .join-with-facebook a
+	  {
+		  font-size:12px;
+		  width:150px;
+		  padding: 7px 0px;
+	  }
+	  .people-have-joined p
+	  {
+		  font-size:14px;
+	  }
+	  .people-have-joined h2
+	  {
+		  font-size:34px;
+	  }
+	  .lightbox-content, .forgetpasslightbox-content
+{
+	width:80%;
+}
+	  .reg-btns-holder
+	  {
+		  margin-top:70px;
+	  }
+	  .reg-btns-holder
+	  {
+		  width:100%;
+	  }
+	  .reg-btn
+	  {
+		  float:none;
+		  margin:auto;
+		  margin-bottom:10px;
+	  }
+	  .log-in-btn
+	  {
+		  margin-top:5px;
+		  margin-right:10px;
+	  }
+	  header
+	  {
+		  height:auto;
+	  }
+	  .reg-btns-divider
+	  {
+		  display:none;
+	  }
+	  .logo
+	  {
+		  position: absolute;
+    left: 10px;
+    top: 0px;
+	margin-top:5px;
+	  }
+	 
+	  .top-point-title
+	  {
+		  padding:0;
+	  }
+	  .main
+	  {
+		  height:500px;
+	  }
+	  .main-vid
+	   {
+		   display:none;
+	   }
+	  main .video_back
+	   {
+		   position:static;
+		   height:450px;
+	   }
+    .login-form
+	{
+		width:100%;
+	}
+	.login-to-reg-btn
+	{
+		top:10px;
+		right:10px;
+	}
+	.login-fb
+	{
+		width:100%;
+		margin-top:20px;
+	}
+}
+ 
+ @media only screen and (max-width: 500px) {
+	 
+	 .google-plus
+	 {
+		 display:none;
+		 }
+		 .regform-form, .regform-fb
+		 {
+			 width:100%;
+		 }
+		 .regform-fb
+		 {
+			 margin-top:10px;
+		 }
+		 .reg-to-login-btn
+		 {
+			 top:10px;
+			 right:10px;
+		 }
+	 
+ }
+  @media only screen and (max-width: 400px) {
+	 
+	 .Instagram
+	 {
+		 display:none;
+		 }
+		 
+		 .logo img
+		 {
+			 width:90px;
+		 }
+	 .lightbox-content, .forgetpasslightbox-content
+{
+	width:300px;
+}
+.reg-btn
+{
+	height:40px;
+	line-height:40px;
+	font-size:14px;
+}
+.login-to-reg-btn
+{
+	font-size:14px;
+	height:30px;
+	line-height:30px;
+	width:90px;
+
+ }
+  }

@@ -1,0 +1,11 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+
+RewriteCond %{HTTPS} !on 
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$ 
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$ 
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{REQUEST_URI}::$1 ^(/.+)/(.*)::\2$
+RewriteRule ^(.*) - [E=BASE:%1]
+RewriteCond $1 !^(index\.php|testnewserver\.html|old\.html|pixie|video|img|landing|install|images|purchase|bootstrap|uploads|captcha|v2|comeback|comingsoon|css|js|font|under_construction|front-end|install|update.php|application.zip|robots\.txt|favicon\.ico|y7AhZe60vdBdRgLbHZUui-GnPFU\.html)
+RewriteRule ^(.*)$ index.php/$1 [L]

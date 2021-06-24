@@ -1,0 +1,11 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['cancellation_terms'] = 'Cancellation Terms';
+$lang['withdrawal'] = 'Withdrawal';
+$lang['withdrawal_rule_one'] = 'You have the right to withdraw from this contract within fourteen days without giving any reason.';
+$lang['withdrawal_rule_two'] = 'The revocation period is fourteen days from the date of the contract.';
+$lang['withdrawal_rule_three'] = 'In order to exercise your right of withdrawal, you must (order network eU, Herbert Friedl, Gewerbepark 1 / Top 16, A-5222 Munderfing, Email: support@sugarbabe-deluxe.eu) by means of a clear statement (eg a letter sent by post letter or e -Mail) about your decision to withdraw from this contract. You can use the attached model withdrawal form, which is not required.';
+$lang['withdrawal_rule_four'] = 'In order to maintain the cancellation period, it is sufficient that you send the notice of the exercise of the right of withdrawal before the expiry of the withdrawal period.';
+$lang['consequences_of_the_cancellation'] = 'Consequences of the cancellation';
+$lang['consequences_of_the_cancellation_policy'] = 'If you withdraw from this Agreement, we have selected all payments we have received from you, including delivery charges (except for the additional costs arising from your choosing a different delivery method than the most favorable standard delivery we offer have to repay immediately and at the latest within fourteen days from the date on which the notification of your revocation of this contract has reached us. For this repayment, we use the same means of payment that you used in the original transaction, unless otherwise agreed with you; In no case will you be charged for this repayment fees. If you have requested that the services be commenced during the period of cancellation, you must pay us a reasonable amount equal to the proportion of services already provided by you at the time you inform us of the exercise of the right of withdrawal in respect of this contract Comparison with the total volume of services provided for in the contract.';

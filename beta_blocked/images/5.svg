@@ -1,0 +1,24 @@
+<svg id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.459" height="73" viewBox="0 0 64.459 73">
+  <style>
+<![CDATA[
+	.st0{clip-path:url(#SVGID_2_);fill:#7974B7;}
+	.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#50507C;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{clip-path:url(#SVGID_2_);fill:#E85E54;}
+	
+		.st3{clip-path:url(#SVGID_2_);fill:none;stroke:#CC3D3A;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{clip-path:url(#SVGID_2_);fill:none;stroke:#2F4D55;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+]]>
+  </style>
+  <defs>
+    <path id="SVGID_1_" d="M0 0h64.46v73H0z"/>
+  </defs>
+  <clipPath id="SVGID_2_">
+    <use xlink:href="#SVGID_1_" overflow="visible"/>
+  </clipPath>
+  <path class="st4" d="M32.762 11.107c16.678 0 30.196 13.52 30.196 30.196 0 16.678-13.52 30.197-30.196 30.197m-15.522-.02h35.29"/>
+  <path class="st0" d="M12.724 26.95L34.884 1.5l11.72 10.205-22.16 25.45z"/>
+  <path class="st1" d="M12.724 26.95L34.884 1.5l11.72 10.205-22.16 25.45z"/>
+  <path class="st2" d="M13.677 48.637c-1.24-3.236-4.955-4.153-8.035-2.928-3.608 1.436-4.785 5.447-3.818 8.97.555 2.017 1.914 3.68 3.39 5.122 1.823 1.78 5.844 5.294 8.516 5.27 2.663-.02 6.647-3.496 8.462-5.27 1.475-1.443 2.836-3.105 3.39-5.124.968-3.523-.203-7.53-3.818-8.97-3.08-1.227-6.792-.313-8.034 2.927"/>
+  <path class="st3" d="M13.677 48.637c-1.24-3.236-4.955-4.153-8.035-2.928-3.608 1.436-4.785 5.447-3.818 8.97.555 2.017 1.914 3.68 3.39 5.122 1.823 1.78 5.844 5.294 8.516 5.27 2.663-.02 6.647-3.496 8.462-5.27 1.475-1.443 2.836-3.105 3.39-5.124.968-3.523-.203-7.53-3.818-8.97-3.08-1.227-6.792-.313-8.034 2.927"/>
+  <path class="st4" d="M10.564 31.09l10.516 8.983"/>
+</svg>

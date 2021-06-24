@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width: 1200px) {
+	
+	.form-block-center
+	{
+		display:none;
+	}
+  
+}
+@media only screen and (max-width: 1000px) {
+	
+	.form-block-right {
+    width: 100%;
+}
+.form-block-left
+{
+	    width: 100%;
+    position: static;
+	padding-top:50px;
+	margin-top:0;
+}
+.form-block
+{
+	padding:0;
+}
+.join-the-best-bating
+{
+	top:20%;
+}
+.apple-google-window
+{
+	padding-top:210px;
+}
+.lightbox-content, .forgetpasslightbox-content
+{
+	width:500px;
+}
+.sign-up-content {
+    width: 80%;
+    margin: auto;
+}
+}
+
+ @media only screen and (max-width: 768px) {
+	 .people-have-joined h2
+	 {
+		 font-size:36px;
+	 }
+	 .langusges .form-control
+	  {
+		  display:none;
+	  }
+	  .form-block
+	  {
+		  padding:10px;
+	  }
+	  
+	  
+ 
+}
+  @media only screen and (max-width: 600px) {
+	  .apple-google-window ul li
+	  {
+		      width: 100%;
+    text-align: left;
+	  }
+	  .tweet
+	  {
+		  display:none;
+	  }
+	  .people-near-by
+	  {
+		  display:none;
+	  }
+	  .join-with-facebook a
+	  {
+		  font-size:12px;
+		  width:150px;
+		  padding: 7px 0px;
+	  }
+	  .people-have-joined p
+	  {
+		  font-size:14px;
+	  }
+	  .people-have-joined h2
+	  {
+		  font-size:34px;
+	  }
+	  .lightbox-content, .forgetpasslightbox-content
+{
+	width:80%;
+}
+	  
+	  
+ 
+}
+ 
+ @media only screen and (max-width: 500px) {
+	 
+	 .google-plus
+	 {
+		 display:none;
+		 }
+	 
+ }
+  @media only screen and (max-width: 400px) {
+	 
+	 .Instagram
+	 {
+		 display:none;
+		 }
+		 
+		 .logo img
+		 {
+			 width:90px;
+		 }
+	 .lightbox-content, .forgetpasslightbox-content
+{
+	width:300px;
+}
+
+
+ }
